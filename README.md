@@ -1,5 +1,7 @@
 # Bike-Rideshare-Customer-Insights-Interactive-Data-Story-
-The project to analyze the data of Divvy, a Chicago City bike share company using Tableau for the year 2014-2021
+The project to analyze the data of Divvy, a Chicago City bike share company using Tableau for the year 2014-2021.This project  delves into the intricacies of Divvy, employing a meticulous approach to explore key factors influencing bike usage. Through the creation of a compelling narrative and multiple visualizations, we aim to provide an insightful examination of trends spanning a seven-year time frame.
+
+The raw data was available in the CSV format in multiple files for each month or quarter. This data was cleansed and transformed using the Pandas library of python. In the cleansing phase, the datatypes were changed to the relevant data types, names of the column were standardized. Once the data was transformed it was aggregated to form one CSV. It was connected to Tableau to generate insights through visualizations. Insightful Story, dashboards, and visualizations were created in Tableau for the analysis
 
 	Data Visualization
 
